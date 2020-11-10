@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Ricardo Rosa, I'm a PHP Programmer.
 <!--
 **ricardosergio81/ricardosergio81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
