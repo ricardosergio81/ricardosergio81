@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm currently work with
+PHP, CSS, JavaScript, Jquery, Linux (Slackware, Ubuntu, Debian), Codeigniter, Laravel, Cake PHP, MySql, Firebird, Git, GitLab, Subversion, Jenkins, API, Scrum
+
+And study
+Kambam, Docker, ELK, Python ...
 [![Linkedin: ricardosergiorosa](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ricardosergiorosa/)](https://www.linkedin.com/in/ricardosergiorosa/)
+ 
